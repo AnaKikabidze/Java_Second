@@ -1,3 +1,13 @@
 h1 {
   color: blue;
 }
+.cat {
+  background-image: url("/assets/image/kitty_java_2.jpeg");
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 400px;
+}
+.first_button {
+  margin-right: 200px;
+  margin-left: 20px;
+}
